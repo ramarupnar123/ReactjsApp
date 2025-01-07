@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import BlogCard from '../components/BlogCard';
 import Pagination from '../components/Pagination';
 import SearchBar from '../components/SearchBar';
 import Spinner from '../components/Spinner';
