@@ -8,6 +8,7 @@ const Navbar = () => {
         <Link className="navbar-brand" to="/">
           BlogApp
         </Link>
+        
         <button
           className="navbar-toggler"
           type="button"
